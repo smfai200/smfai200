@@ -40,15 +40,15 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smfai200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=smfai200&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAmiruddin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=smfai200&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smfai200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdAmiruddin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=smfai200&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
  
 <br>
@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/MdAmiruddin/MdAmiruddin">
+  <a href="https://github.com/smfai200/smfai200">
   <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
@@ -71,5 +71,5 @@
 <br>
 
 
-![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
+![](https://visitcount.itsvg.in/api?id=smfai200&icon=2&color=1)
 
