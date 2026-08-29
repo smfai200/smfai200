@@ -13,7 +13,7 @@
 
 
 
-- 👋 Hi, I’m @Syed Faizan
+- 👋 Hi,
 - 👀 I’m a Programming & CyberSecurity Enthusiast.
 - 🌱 I’m currently Top Rated Upwork Freelancer.
 - 💞️ I’m looking to collaborate with python & pentesting projects.
