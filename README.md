@@ -17,7 +17,7 @@
 - 👀 I’m a Programming & CyberSecurity Enthusiast.
 - 🌱 I’m currently Top Rated Upwork Freelancer.
 - 💞️ I’m looking to collaborate with python & pentesting projects.
-- 📝 I write CTF [Blog](https://smfai200.github.io) and articles on [Medium](https://medium.com/@smfai200).
+  
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
  
